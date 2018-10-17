@@ -1,5 +1,5 @@
-# moodle_dev
+# test_2
 
-[![Build Status](https://travis-ci.com/theWronskians/moodle_dev.svg?branch=master)](https://travis-ci.com/theWronskians/moodle_dev)
+[![Build Status](https://travis-ci.org/keartie94/test_2.svg?branch=master)
 
-[![Coverage Status](https://coveralls.io/repos/github/theWronskians/moodle_dev/badge.svg?branch=master)](https://coveralls.io/github/theWronskians/moodle_dev?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/keartie94/test_2/badge.svg?branch=master)](https://coveralls.io/github/keartie94/test_2?branch=master)
