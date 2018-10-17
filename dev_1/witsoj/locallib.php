@@ -512,6 +512,11 @@ class assign_feedback_witsoj
     }
     return false;
     }*/
+
+
+    /**
+    * @codeCoverageIgnore
+    */
     public function set_witsoj_status($userid, $status, $text)
     {
         global $DB;
